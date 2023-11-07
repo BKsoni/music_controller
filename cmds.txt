@@ -1,0 +1,8 @@
+npm init -y
+npm i webpack webpack-cli --save-dev
+npm i @babel/core babel-loader @babel/preset-env @babel/preset-react --save-dev
+npm i react react-dom --save-dev
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/icons-material
+npm i @babel/plugin-proposal-class-properties --save-dev
+npm i react-router-dom --save-dev
